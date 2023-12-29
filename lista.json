@@ -1,0 +1,253 @@
+{
+  "departamentos": [
+    {
+      "abreviatura_nacional": "PY-17",
+      "nombre": "Alto Paraguay",
+      "ciudades": [
+        "Capitán Pablo Lagerenza",
+        "Fuerte Olimpo"
+      ]
+    },
+    {
+      "abreviatura_nacional": "PY-10",
+      "nombre": "Alto Paraná",
+      "ciudades": [
+        "Cedrales",
+        "Ciudad del Este",
+        "Colonia Minga Porá",
+        "Doctor Juan León Mallorquín",
+        "Itakyry",
+        "Naranjal",
+        "Presidente Franco",
+        "San Alberto",
+        "Santa Rita",
+        "Yguazú"
+      ]
+    },
+    {
+      "abreviatura_nacional": "PY-13",
+      "nombre": "Amambay",
+      "ciudades": [
+        "Bella Vista",
+        "Capitán Bado",
+        "Pedro Juan Caballero"
+      ]
+    },
+    {
+      "abreviatura_nacional": "PY-16",
+      "nombre": "Boquerón",
+      "ciudades": [
+        "Colonia Menno",
+        "Colonia Neuland",
+        "Filadelfia"
+      ]
+    },
+    {
+      "abreviatura_nacional": "PY-05",
+      "nombre": "Caaguazú",
+      "ciudades": [
+        "Caaguazú",
+        "Carayaó",
+        "Cecilio Baez",
+        "Colonia General Alfredo Stroessner",
+        "Coronel Oviedo",
+        "Doctor Juan Manuel Frutos",
+        "Mbutuý",
+        "Repatriación",
+        "San Joaquín",
+        "San José",
+        "Yhú"
+      ]
+    },
+    {
+      "abreviatura_nacional": "PY-06",
+      "nombre": "Caazapá",
+      "ciudades": [
+        "Abaí",
+        "Buena Vista",
+        "Caazapá",
+        "General Higinio Morínigo",
+        "San Juan Nepomuceno",
+        "Yegros",
+        "Yuty"
+      ]
+    },
+    {
+      "abreviatura_nacional": "PY-14",
+      "nombre": "Canindeyú",
+      "ciudades": [
+        "Colonia Catuete",
+        "Corpus Christi",
+        "La Paloma",
+        "Nueva Esperanza",
+        "Salto del Guairá",
+        "San Isidro de Curuguaty",
+        "Ygatimi"
+      ]
+    },
+    {
+      "abreviatura_nacional": "PY-11",
+      "nombre": "Central",
+      "ciudades": [
+        "Areguá",
+        "Capiatá",
+        "Fernando de la Mora",
+        "Guarambaré",
+        "Itá",
+        "Itauguá",
+        "Lambaré",
+        "Limpio",
+        "Mariano Roque Alonso",
+        "Nemby",
+        "Nueva Italia",
+        "San Antonio",
+        "San Lorenzo",
+        "Villa Elisa",
+        "Ypacarai"
+      ]
+    },
+    {
+      "abreviatura_nacional": "PY-01",
+      "nombre": "Concepción",
+      "ciudades": [
+        "Belén",
+        "Concepción",
+        "Horqueta"
+      ]
+    },
+    {
+      "abreviatura_nacional": "PY-03",
+      "nombre": "Cordillera",
+      "ciudades": [
+        "Altos",
+        "Arroyos y Esteros",
+        "Atyrá",
+        "Caacupé",
+        "Caraguatay",
+        "Emboscada",
+        "Eusebio Ayala",
+        "Isla Pucú",
+        "Itacurubí de la Cordillera",
+        "Piribebuy",
+        "San Bernardino",
+        "Santa Elena",
+        "Tobatí"
+      ]
+    },
+    {
+      "abreviatura_nacional": "PY-ASU",
+      "nombre": "Distrito Capital",
+      "ciudades": [
+        "Asunción"
+      ]
+    },
+    {
+      "abreviatura_nacional": "PY-04",
+      "nombre": "Guairá",
+      "ciudades": [
+        "Colonia Mauricio José Troche",
+        "Coronel Martínez",
+        "Independencia",
+        "Itapé",
+        "Iturbe",
+        "Mbocayaty",
+        "Natalicio Talavera",
+        "Villarrica"
+      ]
+    },
+    {
+      "abreviatura_nacional": "PY-07",
+      "nombre": "Itapúa",
+      "ciudades": [
+        "Arquitecto Tomás Romero Pereira",
+        "Bella Vista",
+        "Capitán Miranda",
+        "Carmen del Paraná",
+        "Colonia Carlos Antonio López",
+        "Colonia San Lorenzo",
+        "Edelira",
+        "Encarnación",
+        "Fram",
+        "General Artigas",
+        "General Delgado",
+        "Hohenau",
+        "Jesús",
+        "Natalio",
+        "Obligado",
+        "Pirapó",
+        "Puerto Mayor Otaño",
+        "San Cosme y Damián",
+        "San Juan del Paraná",
+        "San Pedro del Paraná",
+        "Trinidad"
+      ]
+    },
+    {
+      "abreviatura_nacional": "PY-08",
+      "nombre": "Misiones",
+      "ciudades": [
+        "Juan de Ayolas",
+        "San Juan Bautista",
+        "San Miguel",
+        "San Patricio",
+        "Santa María",
+        "Santa Rosa Misiones",
+        "Santiago",
+        "Villa Florida"
+      ]
+    },
+    {
+      "abreviatura_nacional": "PY-12",
+      "nombre": "Ñeembucú",
+      "ciudades": [
+        "Cerrito",
+        "General José Eduvigis Díaz",
+        "Pilar"
+      ]
+    },
+    {
+      "abreviatura_nacional": "PY-09",
+      "nombre": "Paraguarí",
+      "ciudades": [
+        "Acahay",
+        "Caapucú",
+        "Carapeguá",
+        "La Colmena",
+        "Mbuyapey",
+        "Paraguarí",
+        "Pirayú",
+        "Quiindy",
+        "Sapucaí",
+        "Yaguarón",
+        "Ybycuí"
+      ]
+    },
+    {
+      "abreviatura_nacional": "PY-15",
+      "nombre": "Presidente Hayes",
+      "ciudades": [
+        "Benjamín Aceval",
+        "Nanawua",
+        "Villa Hayes"
+      ]
+    },
+    {
+      "abreviatura_nacional": "PY-02",
+      "nombre": "San Pedro",
+      "ciudades": [
+        "Antequera",
+        "Capiíbary",
+        "Colonia Nueva Germania",
+        "General Elizardo Aquino",
+        "Guayaybi",
+        "Itacurubí del Rosario",
+        "Lima",
+        "Puerto Rosario",
+        "San Pedro de Ycuamandiyú",
+        "Tacuatí",
+        "Unión",
+        "Yataity del Norte"
+      ]
+    }
+  ]
+}
